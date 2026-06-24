@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-declaration-damour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for La Déclaration D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-declaration-damour/) |
+| **Get License** | [Obtain a Music License for La Déclaration D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-declaration-damour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `34d182a0f655f0a1770c7b44df3299bf50d278618c3923af11937322c28a87f6` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
