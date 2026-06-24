@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-declaration-damour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for La Déclaration D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-declaration-damour/) |
+| **Get License** | [Commercial Licensing for La Déclaration D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-declaration-damour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bébé, la nuit est à nous, je te kiffe dans le rétro
+> On ride dans le gamos, le volume au plus haut
+> T'es ma go, t'es la plus fraîche, on frôle la perfection
+> Come with me tonight, t'es ma seule direction
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
